@@ -9,7 +9,7 @@ end
 class S2s3 < Formula
   homepage "https://github.com/jfromaniello/s2s3"
   url "https://github.com/jfromaniello/s2s3/archive/v2.2.0.tar.gz"
-  sha1 "036adb45f6f1d29976d4dcb9f77d9a6660ec423e"
+  sha256 "58c97d88ddce5063169dfaecb26a215f7e9b6fc8fab2b05abb9ddc1af6e275ac"
   head "https://github.com/jfromaniello/s2s3.git"
 
   depends_on NODEDependency
